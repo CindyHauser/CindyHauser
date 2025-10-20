@@ -1,2 +1,2 @@
 Hallo ihr.
-Mein Name ist Cindy und ich begrüße dich auf meinem github-Profil.
+Mein Name ist Cindy und ich begrüße euch auf meinem github-Profil.
